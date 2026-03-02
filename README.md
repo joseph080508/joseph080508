@@ -6,7 +6,6 @@ I'm 17 years old
 
 - 🔭 I’m currently working on improving my programming 
 - 🌱 I’m currently learning Pyton and Git
-- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with advance programing
 - 💬 Ask me about tecnology, soccer, film and other 
 - 📫 How to reach me: You can find me in Githud, my user is joseph080508
