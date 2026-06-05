@@ -1,7 +1,7 @@
 # About me 
 I'm Joseph Herreño Theran 
 
-I'm 17 years old
+I'm 18 years old
 
 
 - 🔭 I’m currently working on improving my programming 
