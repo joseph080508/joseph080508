@@ -247,6 +247,6 @@ solve a problem and become a better developer.
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=joseph080508&styl>
+<img src="https://komarev.com/ghpvc/?username=joseph080508&styl">
 
 
