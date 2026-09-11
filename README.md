@@ -1,73 +1,202 @@
-# Hi, I'm Joseph
+<div align="center">
 
-I'm Joseph Herreño Theran, a Systems Engineering student from Colombia.
+# Joseph Herreño
 
-I'm currently learning and improving my programming skills, with a focus on **Front-end Development**.
+### Software Developer · Frontend · Systems Engineering
 
-## Technologies & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
-</p>
+Building interfaces, applications and software projects while continuously learning and improving.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,postgres,supabase" />
+  <a href="https://github.com/joseph080508">GitHub</a>
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;TypeScript+%7C+React+%7C+Next.js;JavaScript+%7C+Python+%7C+SQL;Always+learning+something+new" alt="Typing SVG" />
+
+</div>
+
+---
 
 ## About Me
 
-I'm Joseph Herreño Theran, a Systems Engineering student from Colombia. I'm 18 years old and currently focused on improving my programming skills and growing as a developer.
+I'm **Joseph Herreño**, a Systems Engineering student interested in software development and modern web technologies.
 
-I'm especially interested in Front-end Development and enjoy working with technologies like JavaScript, TypeScript, React, HTML and CSS. I'm also learning more about Node.js, APIs, Git and Python.
+I enjoy building web applications, working with APIs and learning new tools to improve the way I develop software.
 
-I like learning by building projects, experimenting with new technologies and improving the way I write and organize my code.
+Currently focused on strengthening my skills in **Frontend Development**, especially with **TypeScript, React and Next.js**.
 
-Outside of programming, I enjoy technology, soccer, movies and video games.
+---
 
+## Tech Stack
 
-## Projects
+<div align="center">
 
-### Personal Portfolio
+### Frontend
 
-React, TypeScript, Tailwind CSS and Vite.
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,supabase" />
+
+### Other Tools
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+
+</div>
+
+---
+
+## What I'm Learning
+
+```text
+TypeScript      ███████████████░░░░░  Developing
+React           ███████████████░░░░░  Developing
+Next.js         ████████████░░░░░░░░  Learning
+Tailwind CSS    ████████████░░░░░░░░  Learning
+Node.js         ███████████░░░░░░░░░  Learning
+SQL             ███████████████░░░░░  Improving
+Python          ███████████████░░░░░  Improving
+```
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Portfolio
+
+Personal portfolio built with modern frontend technologies.
+
+**Stack**
+
+`React` `TypeScript` `Tailwind CSS`
+
+<br>
+
+<a href="https://github.com/joseph080508/portafolio_react">
+  View repository →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Rick & Morty SPA
 
-A small Single Page Application that consumes the Rick and Morty API.
+Single Page Application consuming an external API to display and manage characters.
 
-JavaScript, HTML, CSS and REST API.
+**Stack**
 
-### Veltrix Motors
+`JavaScript` `HTML` `CSS` `API`
 
-A web project focused on vehicle buying and selling.
+<br>
 
-JavaScript, HTML and CSS.
+<a href="https://github.com/joseph080508">
+  View projects →
+</a>
 
-## Currently Learning
+</td>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,git,python" />
-</p>
+</tr>
 
-I'm focusing on TypeScript, React, APIs, Git and improving my overall programming skills.
+<tr>
 
-## Interests
+<td width="50%" valign="top">
 
-Technology · Soccer · Movies · Video Games
+### TypeScript Project
 
-## Contact
+Frontend application focused on product management and typed architecture.
 
-<p>
-  <a href="https://github.com/joseph080508">
-    <img src="https://img.shields.io/badge/GitHub-joseph080508-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+**Stack**
 
-<p align="center">
-  <img width="400" height="173" alt="Joseph" src="https://github.com/user-attachments/assets/28da66d9-35f2-41e7-af6d-626959dd0018" />
-</p>
+`React` `TypeScript` `API`
+
+<br>
+
+<a href="https://github.com/joseph080508/desempe-o_typeScript">
+  View repository →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### TypeScript Simulation
+
+Project developed to practice frontend architecture, routing, authentication and API consumption.
+
+**Stack**
+
+`React` `TypeScript` `NestJS` `PostgreSQL`
+
+<br>
+
+<a href="https://github.com/joseph080508/SIMULACRO_TYPE_SCRIPT">
+  View repository →
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=joseph080508&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph080508&layout=compact&hide_border=true&theme=transparent" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=joseph080508&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joseph080508&theme=github-compact&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## Currently
+
+* Building frontend projects with **React and TypeScript**
+* Learning and applying **Next.js**
+* Improving my understanding of **backend development**
+* Working with **REST APIs and databases**
+* Building projects to strengthen my portfolio
+
+---
+
+<div align="center">
+
+### Let's build something useful.
+
+<a href="https://github.com/joseph080508">
+<img src="https://img.shields.io/badge/GitHub-joseph080508-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=joseph080508&style=flat-square&color=00D2FF" />
+
+</div>
 
