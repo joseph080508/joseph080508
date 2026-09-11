@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Joseph+Herre%C3%B1o+%F0%9F%91%8B;Systems+Engineering+Student;Frontend+Developer;Building+with+React+%26+TypeScript" alt="Typing animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:0066FF&height=180&section=header&text=Joseph%20Herreño&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Joseph Herreño"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Systems+Engineering+Student;Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;Always+learning%2C+always+building." alt="Typing animation"/>
 
 <br>
 
-<p>
-  <a href="https://github.com/joseph080508">
-    <img src="https://img.shields.io/badge/GitHub-joseph080508-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
+<a href="https://github.com/joseph080508">
+<img src="https://img.shields.io/badge/GitHub-joseph080508-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
 
 </div>
 
@@ -16,17 +16,18 @@
 
 ## About Me
 
-I'm **Joseph Herreño**, a Systems Engineering student focused on software development.
+Hi! I'm **Joseph Herreño**, a Systems Engineering student passionate about software development.
 
-I'm particularly interested in **Frontend Development** and enjoy building modern, responsive and functional web applications.
+I enjoy building web applications, creating user interfaces and learning how different technologies work together to solve real problems.
 
-Currently, I'm working with **TypeScript, React and Next.js**, while continuing to improve my knowledge of backend development, databases and software architecture.
+My main focus is currently **Frontend Development**, while I'm also exploring backend technologies and databases.
 
 ```text
-Frontend   → React · TypeScript · JavaScript · Next.js
-Backend    → Node.js · Express · NestJS
-Database   → PostgreSQL · Supabase
-Tools      → Git · GitHub · Vite · VS Code
+Frontend        React · TypeScript · JavaScript · Next.js
+Styling         HTML · CSS · Tailwind CSS
+Backend         Node.js · Express · NestJS
+Database        PostgreSQL · Supabase
+Tools           Git · GitHub · Vite · VS Code
 ```
 
 ---
@@ -35,21 +36,7 @@ Tools      → Git · GitHub · Vite · VS Code
 
 <div align="center">
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="Frontend technologies"/>
-
-<br><br>
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,supabase" alt="Backend technologies"/>
-
-<br><br>
-
-### Tools & Languages
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,nestjs,postgres,supabase,python,git,github,vscode&perline=9" alt="Technology stack"/>
 
 </div>
 
@@ -57,22 +44,18 @@ Tools      → Git · GitHub · Vite · VS Code
 
 ## Featured Projects
 
-<div align="center">
-
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>Portfolio</h3>
+### Portfolio
 
-<p>
-Personal portfolio focused on presenting my projects, skills and experience as a developer.
-</p>
+Personal portfolio built to showcase my projects, skills and development journey.
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="35"/>
-</p>
+**Technologies**
+
+`React` `TypeScript` `Tailwind CSS`
 
 <a href="https://github.com/joseph080508/portafolio_react">
 View repository →
@@ -82,15 +65,13 @@ View repository →
 
 <td width="50%" valign="top">
 
-<h3>Rick & Morty SPA</h3>
+### Rick & Morty SPA
 
-<p>
-Single Page Application consuming the Rick & Morty API to display and manage characters.
-</p>
+Single Page Application consuming an external API to display and manage characters.
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,html,css" height="35"/>
-</p>
+**Technologies**
+
+`JavaScript` `HTML` `CSS` `API`
 
 <a href="https://github.com/joseph080508">
 View repository →
@@ -104,15 +85,13 @@ View repository →
 
 <td width="50%" valign="top">
 
-<h3>TypeScript Project</h3>
+### TypeScript Project
 
-<p>
 Frontend project created to practice TypeScript, component architecture and API consumption.
-</p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts" height="35"/>
-</p>
+**Technologies**
+
+`React` `TypeScript`
 
 <a href="https://github.com/joseph080508/desempe-o_typeScript">
 View repository →
@@ -122,15 +101,13 @@ View repository →
 
 <td width="50%" valign="top">
 
-<h3>TypeScript Simulation</h3>
+### TypeScript Simulation
 
-<p>
-Project focused on frontend architecture, routing, authentication and backend integration.
-</p>
+Project focused on frontend architecture, routing and backend integration.
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts,nestjs,postgres" height="35"/>
-</p>
+**Technologies**
+
+`React` `TypeScript` `NestJS` `PostgreSQL`
 
 <a href="https://github.com/joseph080508/SIMULACRO_TYPE_SCRIPT">
 View repository →
@@ -141,48 +118,36 @@ View repository →
 </tr>
 </table>
 
-</div>
-
 ---
 
-## GitHub Stats
+## Currently Learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joseph080508&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseph080508&layout=compact&hide_border=true&theme=transparent" height="170" alt="Most used languages"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=joseph080508&theme=transparent&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://img.shields.io/badge/TypeScript-Learning-00D2FF?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-Improving-00D2FF?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-Learning-00D2FF?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-Learning-00D2FF?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
 </div>
 
 ---
 
-## Contribution Activity
+## GitHub
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joseph080508&theme=github-compact&hide_border=true&area=true" width="95%" alt="GitHub contribution graph"/>
+<a href="https://github.com/joseph080508">
+<img src="https://img.shields.io/github/followers/joseph080508?label=Followers&style=for-the-badge&logo=github&color=00D2FF" alt="GitHub followers"/>
+</a>
 
-</div>
+<a href="https://github.com/joseph080508?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View-00D2FF?style=for-the-badge&logo=github" alt="Repositories"/>
+</a>
 
----
-
-## What I'm Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/TypeScript-00D2FF?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-00D2FF?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-00D2FF?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-00D2FF?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<a href="https://github.com/joseph080508?tab=stars">
+<img src="https://img.shields.io/badge/Stars-View-00D2FF?style=for-the-badge&logo=github" alt="Stars"/>
+</a>
 
 </div>
 
@@ -190,19 +155,20 @@ View repository →
 
 ## Development Philosophy
 
-> Build it. Understand it. Improve it.
+<div align="center">
 
-I believe the best way to learn software development is by **building real projects**, making mistakes, understanding why they happen, and improving with every iteration.
+### Build. Learn. Improve. Repeat.
+
+I believe the best way to become a better developer is to keep building,
+keep learning and understand every mistake along the way.
+
+</div>
 
 ---
 
 <div align="center">
 
-## Let's Connect
-
-<a href="https://github.com/joseph080508">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=00D2FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+useful." alt="Footer typing animation"/>
 
 <br><br>
 
@@ -210,8 +176,7 @@ I believe the best way to learn software development is by **building real proje
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D2FF&height=100&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00D2FF&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
-
 
