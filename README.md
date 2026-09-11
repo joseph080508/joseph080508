@@ -20,7 +20,14 @@ I'm currently learning and improving my programming skills, with a focus on **Fr
 
 ## About Me
 
-<img src="https://skillicons.dev/icons?i=code" width="20"/> Systems Engineering student <img src="https://skillicons.dev/icons?i=react" width="20"/> Interested in Front-end Development <img src="https://skillicons.dev/icons?i=git" width="20"/> Currently improving my Git and development workflow <img src="https://skillicons.dev/icons?i=python" width="20"/> Learning Python <img src="https://skillicons.dev/icons?i=github" width="20"/> Building projects to improve my skills
+I'm Joseph Herreño Theran, a Systems Engineering student from Colombia. I'm 18 years old and currently focused on improving my programming skills and growing as a developer.
+
+I'm especially interested in Front-end Development and enjoy working with technologies like JavaScript, TypeScript, React, HTML and CSS. I'm also learning more about Node.js, APIs, Git and Python.
+
+I like learning by building projects, experimenting with new technologies and improving the way I write and organize my code.
+
+Outside of programming, I enjoy technology, soccer, movies and video games.
+
 
 ## Projects
 
