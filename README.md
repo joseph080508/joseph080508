@@ -10,6 +10,10 @@
 <img src="https://img.shields.io/badge/GitHub-joseph080508-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
+<a href="https://spectacular-bubblegum-4a95c5.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-00D2FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+</a>
+
 </div>
 
 ---
@@ -64,6 +68,12 @@ My personal portfolio where I showcase my projects, technologies and development
 <p>
 <img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="32" alt="Portfolio technologies"/>
 </p>
+
+<a href="https://spectacular-bubblegum-4a95c5.netlify.app">
+View live site →
+</a>
+
+  
 
 <a href="https://github.com/joseph080508/portafolio_react">
 View repository →
@@ -201,7 +211,7 @@ Supabase
 </a>
 
 <a href="https://github.com/joseph080508?tab=stars">
-<img src="https://img.shields.io/badge/Stars-Explore-00D2FF?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
+<img src="https://img.shields.io/badge/Stars-Explore-00D2FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub stars"/>
 </a>
 
 </div>
@@ -231,13 +241,12 @@ solve a problem and become a better developer.
 <img src="https://img.shields.io/badge/GitHub-joseph080508-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
+<a href="https://spectacular-bubblegum-4a95c5.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00D2FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+</a>
+
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=joseph080508&style=flat-square&color=00D2FF&label=Profile+Views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=joseph080508&styl
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00D2FF&height=110&section=footer" width="100%" alt="Footer"/>
-
-</div>
 
