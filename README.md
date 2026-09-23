@@ -93,7 +93,7 @@ A Single Page Application that consumes the Rick & Morty API and allows users to
 <img src="https://skillicons.dev/icons?i=js,html,css" height="32" alt="Rick and Morty technologies"/>
 </p>
 
-<a href="https://github.com/joseph080508">
+<a href="https://github.com/MateoMg06/SpaRickAndMorty">
 View repository →
 </a>
 
