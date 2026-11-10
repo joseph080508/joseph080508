@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/GitHub-joseph080508-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://spectacular-bubblegum-4a95c5.netlify.app">
+<a href="https://portafolio-joseph080508.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-00D2FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
 </a>
 
